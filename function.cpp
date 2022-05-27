@@ -6,7 +6,7 @@ void myfunction(string name ,int age){
     }
 
 int main(){
-    myfunction("Akshay",23);
+    myfunction("Anish",20);
     // myfunction();
     return 0;
 }
